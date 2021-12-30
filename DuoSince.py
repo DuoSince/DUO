@@ -4,7 +4,7 @@ import threading
 import time
 import os
 
-os.system("cls")
+os.system("clear")
 #login tools
 password ="DuoSince"
 
@@ -20,7 +20,7 @@ for i in range(3):
 		print(" #Pasword Salah Goblk!!!\u001b[31m ")
 		continue
 time.sleep(5)
-print("\u001b[31m# Berhasil Masuk Ke \u001b[32mDevXyZ")
+print("\u001b[31m # Berhasil Masuk Ke \u001b[32mDevXyZ")
 time.sleep(5)
 
 print("""
@@ -46,7 +46,7 @@ times = int(input("   \u001b[37mB \u001b[31m<DevXyZ> \u001b[32mConnections :\u00
 print(" ")
 threads = int(input("   \u001b[37mI \u001b[31m<DevXyZ> \u001b[32mThreading :\u001b[34m  "))
 print(" ")
-print(f"@DevXyZ===> Menghubungkan ke ip {ip} port {port}")
+print(f"   @DevXyZ===> Menghubungkan ke ip {ip} port {port}")
 time.sleep(3)
 
 # Attack
